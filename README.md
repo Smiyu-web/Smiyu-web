@@ -6,7 +6,7 @@
 <a href="https://miyusetoyama.com/">https://miyusetoyama.com/</a>
 </p>
 <p>📮 contact me: </br>
-<a>miyusetoyama@gmail.com</a>
+<a href="mailto:miyusetoyama@gmail.com">miyusetoyama@gmail.com</a>
 </p>
 </div>
 
