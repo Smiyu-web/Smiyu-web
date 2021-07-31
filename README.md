@@ -1,11 +1,9 @@
 <h1 align="center">Hi! My name is Miyu 👋</h1>
 <h3 align="center">A professional Frontend Developer in Vancouver</h3>
 
-<div>
-<p>👩‍💻 find all my work</p>
-<a href="https://miyusetoyama.com/">https://miyusetoyama.com/</a>
-<p>📮 contact me</p>
-<p>miyusetoyama@gmail.com</p>
+<div align="center">
+<p>👩‍💻 all my work</p><a href="https://miyusetoyama.com/">https://miyusetoyama.com/</a>
+<p>📮 contact me</p><a>miyusetoyama@gmail.com</a>
 </div>
 
 <!-- [![Miyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smiyu-web&theme=calm&show_icons=true)](https://github.com/Smiyu-web/github-readme-stats) -->
